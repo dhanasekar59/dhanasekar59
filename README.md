@@ -32,11 +32,16 @@
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: Python, SQL, C++
-- **Libraries**: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
-- **Visualization Tools**: Power BI, Excel
-- **Platforms**: Jupyter, Google Colab, GitHub
-- **Concepts**: Regression, Classification, Clustering, EDA, Model Tuning
+## 🛠️ Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-004C99?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -53,7 +58,7 @@
 - 📧 Email: dhanasekar59@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhanasekar-sm)  
 - 💻 [GitHub](https://github.com/dhanasekar59)  
-- 📄 [Download My Resume]([https://your-resume-link.com](https://drive.google.com/file/d/1LvobHKRoT1fUY6OX-_753BmLR1W0OwS4/view?usp=drive_link)) <!-- Replace this with actual URL -->
+- 📄 [Download My Resume](https://drive.google.com/file/d/1LvobHKRoT1fUY6OX-_753BmLR1W0OwS4/view?usp=drive_link) <!-- Replace this with actual URL -->
 
 ---
 
