@@ -56,12 +56,14 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20To-Work-brightgreen?style=for-the-badge)
 ![Actively Learning](https://img.shields.io/badge/Actively-Learning-blue?style=for-the-badge)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)
-![GitHub Followers](https://img.shields.io/github/followers/dhanasekar59?label=GitHub%20Followers&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhanasekar-sm/)
+[![GitHub Followers](https://img.shields.io/github/followers/dhanasekar59?label=GitHub%20Followers&style=for-the-badge)](https://github.com/dhanasekar59)
+[![Email](https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanasenthil0@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](https://drive.google.com/file/d/1LvobHKRoT1fUY6OX-_753BmLR1W0OwS4/view?usp=drive_link)
+
  <!-- Replace this with actual URL -->
 
 ---
-
 
 
 ## ✨ Fun Fact
