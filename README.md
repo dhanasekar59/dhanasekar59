@@ -30,7 +30,6 @@
 
 ---
 
-## 🛠️ Skills & Tools
 
 ## 🛠️ Skills & Tools
 
@@ -55,21 +54,15 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: dhanasekar59@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhanasekar-sm)  
-- 💻 [GitHub](https://github.com/dhanasekar59)  
-- 📄 [Download My Resume](https://drive.google.com/file/d/1LvobHKRoT1fUY6OX-_753BmLR1W0OwS4/view?usp=drive_link) <!-- Replace this with actual URL -->
+![Open to Work](https://img.shields.io/badge/Open%20To-Work-brightgreen?style=for-the-badge)
+![Actively Learning](https://img.shields.io/badge/Actively-Learning-blue?style=for-the-badge)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)
+![GitHub Followers](https://img.shields.io/github/followers/dhanasekar59?label=GitHub%20Followers&style=for-the-badge)
+ <!-- Replace this with actual URL -->
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanasekar59&show_icons=true&theme=dracula" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhanasekar59&theme=dracula" width="45%">
-</p>
-
----
 
 ## ✨ Fun Fact
 > I don’t just analyze data — I turn it into a story. I believe in solving problems with curiosity, creativity, and a touch of code! 💡💻📊
